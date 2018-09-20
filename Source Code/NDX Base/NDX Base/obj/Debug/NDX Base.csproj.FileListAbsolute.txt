@@ -1,0 +1,6 @@
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\obj\Debug\NDX Base.csproj.CoreCompileInputs.cache
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\bin\Debug\NDXBase.dll
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\bin\Debug\NDXBase.pdb
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\obj\Debug\NDXBase.dll
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\obj\Debug\NDXBase.pdb
+C:\Users\kris7\OneDrive\Programming\C#\Finished\NDX Base\NDX Base\obj\Debug\NDX Base.csprojAssemblyReference.cache
