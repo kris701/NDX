@@ -12,3 +12,5 @@ This simple .dll file, expands what is possable when designing in winforms. Make
 </p>
 
 There is much more than can be shown just here. Take a look at the wiki for more detailed info.
+
+Pictures from another project: https://github.com/kris701/Auto-2048-8x8
