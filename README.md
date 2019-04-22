@@ -1,3 +1,5 @@
+# Discontinued!
+
 # NDX - Native Design eXpansion
 
 This simple .dll file, expands what is possable when designing in winforms. Make the standart winforms window, look more modern, and it only uses native winforms controls. Here is an example:
